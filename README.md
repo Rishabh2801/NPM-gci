@@ -42,12 +42,19 @@ code is located within the app's root directory.
 ## Contributing
 
 Great help from :
+
 Divyanshu
+
 Ignacio Rodriguez
+
 Francis Sunday
+
 Abdulsamad Aliyu
+
 Chidume Nnamdi-1
+
 Shivang Shekhar
+
 Walter Bender
 
 ## Author
