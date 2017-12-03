@@ -2,7 +2,7 @@
 
 Hello World in node.js
 
-### Prerequisites
+# Prerequisites
 
 1)You need to install node.js. you can get it from https://nodejs.org 
 
@@ -13,7 +13,7 @@ Hello World in node.js
 3)cmd in Windows OS, Terminal in Linux OS and bash for Mac users.
 4)You need to have any browser to run the program.
 
-### Installing
+# Installing
 
 You need to type the following code to implement hello world package in cmd
 
@@ -29,17 +29,17 @@ const helloworld = require('helloworld-gci');
 helloworld(); // Logs "Hello World!"
 ```
 
-## Running the tests
+# Running the tests
 
 Open the browser and type the portal you have chosen.
 
-## Usages
+# Usages
 
 Hello World is the simplest possible App Engine app, as it contains only one service, has only one version, and all of the 
 
 code is located within the app's root directory.
 
-## Contributing
+# Contributing
 
 Great help from :
 
@@ -57,10 +57,10 @@ Shivang Shekhar
 
 Walter Bender
 
-## Author
+# Author
 
 Rishabh Rationalist
 
-## License
+# License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
