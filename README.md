@@ -4,14 +4,13 @@ Hello World in node.js
 
 # Prerequisites
 
-1)You need to install node.js. you can get it from https://nodejs.org 
+1) You need to install node.js. you can get it from https://nodejs.org 
 
+2) Install text editor of your own choice for writing main code. For example Sublime Text 3.
 
-2)Install text editor of your own choice for writing main code. For example Sublime Text 3.
+3) cmd in Windows OS, Terminal in Linux OS and bash for Mac users.
 
-
-3)cmd in Windows OS, Terminal in Linux OS and bash for Mac users.
-4)You need to have any browser to run the program.
+4) You need to have any browser to run the program.
 
 # Installing
 
