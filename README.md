@@ -17,13 +17,13 @@ Hello World in node.js
 You need to type the following code to implement hello world package in cmd
 
 ```
-npm install helloworld-gci
+npm i helloworld-gci-2
 ```
 
 And then following code in text editor.
 
 ```
-const helloworld = require('helloworld-gci');
+const helloworld = require('helloworld-gci-2');
     
 helloworld(); // Logs "Hello World!"
 ```
