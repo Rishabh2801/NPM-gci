@@ -1,0 +1,19 @@
+{
+  "name": "helloworld-gci-2",
+  "version": "1.0.0",
+  "description": "This my first code for node.js. Enjoyed very much.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rishabh2801/NPM-gci.git"
+  },
+  "author": "Rishabh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rishabh2801/NPM-gci/issues"
+  },
+  "homepage": "https://github.com/Rishabh2801/NPM-gci#readme"
+}
