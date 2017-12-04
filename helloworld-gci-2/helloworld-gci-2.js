@@ -1,2 +1,2 @@
 var msg = require('./msg.js');
-console.log(msg);
+msg('Hello World');

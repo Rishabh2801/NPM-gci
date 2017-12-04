@@ -1,1 +1,3 @@
-module.exports = 'Hello World';
+module.exports = function (msg){
+	console.log(msg);
+};
